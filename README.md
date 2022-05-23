@@ -1,2 +1,2 @@
 # generator-password
-Generator of password with HTML, CSS and JS
+Generator of password with HTML, SASS and JS
